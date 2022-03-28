@@ -30,3 +30,6 @@ REST-Rant is an app where users can review restaurants.
      |  city   |  String  |
      |  state  |  String  |
      |  cuisines  |  String  |
+
+     source for sushi
+     israel-albornoz-kNH31Q7MDUY-unsplash
