@@ -1,7 +1,14 @@
+body{
+  background-color: rgb(37, 0, 37);
+  text-align: center;
+}
 h1 {
     text-align: center;
-    color: lightslategrey;
+    color: rgb(175, 106, 175);
   }
+h2{
+  color: rgb(248, 195, 255)
+}
 img{
-  height: 30em;
+  height: 25em;
 }
