@@ -7,6 +7,11 @@ function error404 () {
           <main>
               <h1>404: PAGE NOT FOUND</h1>
               <p>Oops, sorry, we can't find this page!</p>
+              <div>
+                <img src="/images/errorCream.jpg" alt="Dropped Ice Cream Cone"/>
+               <p> Photo by <a href="https://unsplash.com/@rojekilian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sarah Kilian</a> on <a href="https://unsplash.com/s/photos/error?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+               </p>
+              </div>
           </main>
       </Def>
     )
