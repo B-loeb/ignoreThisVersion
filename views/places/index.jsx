@@ -13,7 +13,7 @@ function index (data){
         return(
             <def>
                 <main>
-                    <h1>PLACES INDEX</h1>
+                    <h1>This Place is for Ranting and Raving</h1>
                     {placesFormatted}
                 </main>
             </def>
