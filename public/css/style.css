@@ -12,3 +12,17 @@ h2{
 img{
   height: 25em;
 }
+p{
+  color: rgb(237, 214, 240);
+}
+a{
+  text-decoration:underline;
+  color: rgb(164, 164, 247);
+}
+label{
+  color: rgb(164, 164, 247);
+  padding: .5em;
+}
+form{
+  margin-top: .5em;
+}

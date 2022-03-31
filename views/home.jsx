@@ -15,7 +15,7 @@ function home () {
               <a href="/places">
                 <button className="btn-primary">Places Page</button>
               </a>
-              <a href="/places/home">
+              <a href="/places/new">
                 <button className="btn-primary">Add New</button>
               </a>
           </main>
