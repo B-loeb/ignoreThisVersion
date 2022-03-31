@@ -15,8 +15,8 @@ function home () {
               <a href="/places">
                 <button className="btn-primary">Places Page</button>
               </a>
-              <a href="/places/index.jsx">
-                <button className="btn-primary">Index Page</button>
+              <a href="/places/home">
+                <button className="btn-primary">Add New</button>
               </a>
           </main>
       </Def>
