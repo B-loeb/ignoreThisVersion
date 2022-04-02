@@ -1,28 +1,56 @@
 body{
-  background-color: rgb(37, 0, 37);
+  background-color: rgb(213, 255, 252);
   text-align: center;
+}
+main{
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: rgba(103, 207, 255, 0.419);
+  border: 5px solid rgba(4, 66, 81, 0.353);
+  border-radius: 10%;
 }
 h1 {
     text-align: center;
-    color: rgb(175, 106, 175);
+    color: rgb(4, 66, 81);
   }
 h2{
-  color: rgb(248, 195, 255)
+  color: rgb(8, 96, 163);
 }
 img{
   height: 25em;
 }
 p{
-  color: rgb(237, 214, 240);
+  color: rgb(3, 58, 95);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 a{
   text-decoration:underline;
-  color: rgb(164, 164, 247);
+  color: rgb(3, 58, 95);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 label{
-  color: rgb(164, 164, 247);
-  padding: .5em;
+  color: rgb(8, 96, 163);
+  padding: 10px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom: 10px;
 }
-form{
-  margin-top: .5em;
+nav{
+  background-color: rgb(213, 255, 252) ;
+  padding: 10px;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+}
+nav li{
+  display: inline;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-right: 25px;
+}
+nav a{ 
+  color:rgb(8, 96, 163);
+  font-size: 1.5em;
+}
+nav a:hover {
+  color:rgb(255, 137, 226);
 }
