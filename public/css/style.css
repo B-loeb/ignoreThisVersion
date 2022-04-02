@@ -7,7 +7,8 @@ main{
   margin-left: 20px;
   background-color: rgba(103, 207, 255, 0.419);
   border: 5px solid rgba(4, 66, 81, 0.353);
-  border-radius: 10%;
+  border-radius: 5%;
+  
 }
 h1 {
     text-align: center;
