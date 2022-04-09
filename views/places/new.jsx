@@ -27,7 +27,7 @@ function new_form (data) {
                   <label htmlFor="pic">Place Picture</label>
                   <input className="form-control" 
                   id="pic"
-                   name="pic" />
+                  name="pic" />
                 </div>
               </div>
               <div className="row">
@@ -49,7 +49,7 @@ function new_form (data) {
                   className="form-control" 
                   id="founded"
                    name="founded" 
-                  defaultValue={new Date().getFullYear()} />
+                   defaultValue={new Date().getFullYear()} />
                 </div>
               </div>
               <div className="form-group">
